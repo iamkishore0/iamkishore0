@@ -1,5 +1,5 @@
-## 🚀 Hi there
-🤔  I'm a Devops Engineer
+## 👋 Hi there
+🚀  I'm a Devops Engineer
 
 🌱 I'm Currently working on AWS, Jenkins, Docker-compose, Ansible, Terraform, Nginx, K8s
 
