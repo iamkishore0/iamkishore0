@@ -6,3 +6,10 @@
 🔭 I'm Looking for Remote Devops Engineer role
 
 💬 Ask me about:  Devops & Tech relate stuff
+
+## 🛠 Skills
+AWS, GIT, Jenkins, Maven, Sonarqube, Nexus, Tomcat, 
+
+Docker, Docker-compose, EKS, Ansible, Terraform, 
+
+Nginx, Certbot, Bash/Shell Scripting, Ubuntu/Debian/RHEL/Centos
