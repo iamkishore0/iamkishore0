@@ -8,7 +8,7 @@
 💬 Ask me about:  Devops & Tech relate stuff
 
 ## 🛠 Skills
-AWS, GIT, Jenkins, Maven, Sonarqube, Nexus, Tomcat, 
+-AWS, GIT, Jenkins, Maven, Sonarqube, Nexus, Tomcat, 
 
 Docker, Docker-compose, EKS, Ansible, Terraform, 
 
