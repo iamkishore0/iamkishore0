@@ -3,8 +3,6 @@
 
 🌱 I'm Currently working on AWS, Jenkins, Docker-compose, Ansible, Terraform, Nginx, K8s
 
-🔭 I'm Looking forward to change company for Remote Oppurtunity
-
 💬 Ask me about:  Devops & Tech relate stuff
 
 ## 🛠 Skills
