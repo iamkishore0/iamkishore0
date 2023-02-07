@@ -12,6 +12,11 @@ Docker, Docker-compose, EKS, Ansible, Terraform,
 
 Nginx, Certbot, Bash/Shell Scripting, Ubuntu/Debian/RHEL/Centos
 
+## Stats
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/iamkishore0/langs)](https://githubtrends.io) 
+
+
+
 
 ## Contact me 
 
